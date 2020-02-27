@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_lib_component">
+    <sys_ux_lib_component action="INSERT_OR_UPDATE">
+        <default_children/>
+        <default_layout/>
+        <deprecated>false</deprecated>
+        <overrides/>
+        <required_sys_props/>
+        <required_translation_keys/>
+        <source_script display_value="comp-consumer">b1e6bfa80e56335b0c6c267b720da833</source_script>
+        <sys_class_name>sys_ux_lib_component</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-26 22:26:18</sys_created_on>
+        <sys_id>e1395e06ec0f989c0078a1f11658ab3b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>comp-consumer</sys_name>
+        <sys_package display_value="comp-consumer" source="x_comp_consumer">53fe6c14a5574010f8774b83bb012584</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="comp-consumer">53fe6c14a5574010f8774b83bb012584</sys_scope>
+        <sys_update_name>sys_ux_lib_component_e1395e06ec0f989c0078a1f11658ab3b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-26 22:26:18</sys_updated_on>
+        <tag>comp-consumer</tag>
+    </sys_ux_lib_component>
+</record_update>
